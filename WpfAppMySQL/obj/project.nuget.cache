@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J3rKqr18+FbWOcnC6mEyMb2S9c2tRb7Ti7Ei7cTrZLjIvu3GVdeP26RA4TTeazgHLnDX5EINIv/U/pQjpDQZ1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MyPc\\source\\repos\\WpfAppMySQL\\WpfAppMySQL\\WpfAppMySQL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MyPc\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\MyPc\\.nuget\\packages\\mysqlconnector\\2.3.0-beta.2\\mysqlconnector.2.3.0-beta.2.nupkg.sha512"
+  ],
+  "logs": []
+}
